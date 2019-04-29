@@ -1,0 +1,569 @@
+Only in inferno/Linux/386/bin: emu
+Only in inferno.new/Linux/386/bin: iyacc
+diff inferno/Linux/386/include/lib9.h inferno.new/Linux/386/include/lib9.h
+diff inferno/Linux/arm/include/lib9.h inferno.new/Linux/arm/include/lib9.h
+Only in inferno/MacOSX/386/bin: 0a
+Only in inferno/MacOSX/386/bin: 0c
+Only in inferno/MacOSX/386/bin: 0l
+Only in inferno/MacOSX/386/bin: 1a
+Only in inferno/MacOSX/386/bin: 1c
+Only in inferno/MacOSX/386/bin: 1l
+Only in inferno/MacOSX/386/bin: 2a
+Only in inferno/MacOSX/386/bin: 2c
+Only in inferno/MacOSX/386/bin: 2l
+Only in inferno/MacOSX/386/bin: 5a
+Only in inferno/MacOSX/386/bin: 5c
+Only in inferno/MacOSX/386/bin: 5coff
+Only in inferno/MacOSX/386/bin: 5cv
+Only in inferno/MacOSX/386/bin: 5l
+Only in inferno/MacOSX/386/bin: 8a
+Only in inferno/MacOSX/386/bin: 8c
+Only in inferno/MacOSX/386/bin: 8l
+Only in inferno/MacOSX/386/bin: acid
+Only in inferno/MacOSX/386/bin: asm
+Only in inferno/MacOSX/386/bin: c2l
+Only in inferno/MacOSX/386/bin: data2s
+Only in inferno/MacOSX/386/bin: emu
+Only in inferno/MacOSX/386/bin: ftl
+Only in inferno/MacOSX/386/bin: iar
+Only in inferno/MacOSX/386/bin: idea
+Only in inferno/MacOSX/386/bin: inm
+Only in inferno.new/MacOSX/386/bin: iyacc
+Only in inferno/MacOSX/386/bin: ka
+Only in inferno/MacOSX/386/bin: kc
+Only in inferno/MacOSX/386/bin: kl
+Only in inferno/MacOSX/386/bin: kprof
+Only in inferno/MacOSX/386/bin: ksize
+Only in inferno/MacOSX/386/bin: kstrip
+Only in inferno/MacOSX/386/bin: limbo
+Only in inferno/MacOSX/386/bin: md5sum
+Only in inferno/MacOSX/386/bin: mk.save
+Only in inferno/MacOSX/386/bin: mkppcimage
+Only in inferno/MacOSX/386/bin: ms2
+Only in inferno/MacOSX/386/bin: ndabinary files inferno/MacOSX/386/bin/yacc inferno.new/MacOSX/386/bin/yacc differ
+Only in inferno/MacOSX/386/bin: qa
+Only in inferno/MacOSX/386/bin: qc
+Only in inferno/MacOSX/386/bin: ql
+Only in inferno/MacOSX/386/bin: sqz
+Only in inferno/MacOSX/386/bin: srclist
+Only in inferno/MacOSX/386/bin: styxtest
+Only in inferno/MacOSX/386/bin: tc
+Only in inferno/MacOSX/386/bin: va
+Only in inferno/MacOSX/386/bin: vc
+Only in inferno/MacOSX/386/bin: vl
+diff inferno/MacOSX/386/include/lib9.h inferno.new/MacOSX/386/include/lib9.h
+Only in inferno/MacOSX/386/lib: lib9.a
+Only in inferno/MacOSX/386/lib: libbio.a
+Only in inferno/MacOSX/386/lib: libcc.a
+Only in inferno/MacOSX/386/lib: libdraw.a
+Only in inferno/MacOSX/386/lib: libdynld.a
+Only in inferno/MacOSX/386/lib: libfreetype.a
+Only in inferno/MacOSX/386/lib: libinterp.a
+Only in inferno/MacOSX/386/lib: libkeyring.a
+Only in inferno/MacOSX/386/lib: libmach.a
+Only in inferno/MacOSX/386/lib: libmath.a
+Only in inferno/MacOSX/386/lib: libmemdraw.a
+Only in inferno/MacOSX/386/lib: libmemlayer.a
+Only in inferno/MacOSX/386/lib: libmp.a
+Only in inferno/MacOSX/386/lib: libprefab.a
+Only in inferno/MacOSX/386/lib: libregexp.a
+Only in inferno/MacOSX/386/lib: libsec.a
+Only in inferno/MacOSX/386/lib: libstyx.a
+Only in inferno/MacOSX/386/lib: libtk.a
+Only in inferno.new/MacOSX/power/bin: iyacc
+diff inferno/MacOSX/power/include/lib9.h inferno.new/MacOSX/power/include/lib9.h
+Only in inferno.new: NetBSD
+Only in inferno/Nt/386/bin: emu.exe
+Only in inferno.new/Nt/386/bin: iyacc.exe
+diff inferno/Nt/386/include/lib9.h inferno.new/Nt/386/include/lib9.h
+Only in inferno.new: OpenBSD
+Only in inferno/Plan9/386/bin: 0a
+Only in inferno/Plan9/386/bin: 0c
+Only in inferno/Plan9/386/bin: 0l
+Only in inferno/Plan9/386/bin: 1a
+Only in inferno/Plan9/386/bin: 1c
+Only in inferno/Plan9/386/bin: 1l
+Only in inferno/Plan9/386/bin: 2a
+Only in inferno/Plan9/386/bin: 2c
+Only in inferno/Plan9/386/bin: 2l
+Only in inferno/Plan9/386/bin: 5a
+Only in inferno/Plan9/386/bin: 5c
+Only in inferno/Plan9/386/bin: 5coff
+Only in inferno/Plan9/386/bin: 5cv
+Only in inferno/Plan9/386/bin: 5l
+Only in inferno/Plan9/386/bin: acid
+Only in inferno/Plan9/386/bin: asm
+Only in inferno/Plan9/386/bin: c2l
+Only in inferno/Plan9/386/bin: data2s
+Only in inferno/Plan9/386/bin: emu
+Only in inferno/Plan9/386/bin: ftl
+Only in inferno/Plan9/386/bin: iar
+Only in inferno/Plan9/386/bin: idea
+Only in inferno/Plan9/386/bin: inm
+Only in inferno/Plan9/386/bin: kprof
+Only in inferno/Plan9/386/bin: limbo
+Only in inferno/Plan9/386/bin: mkppcimage
+Only in inferno/Plan9/386/bin: ms2
+Only in inferno/Plan9/386/bin: ndate
+Only in inferno/Plan9/386/bin: sqz
+Only in inferno/Plan9/386/bin: srclist
+Only in inferno/Plan9/386/bin: tc
+Only in inferno/Plan9/386/bin: yacc
+diff inferno/Plan9/386/include/lib9.h inferno.new/Plan9/386/include/lib9.h
+Only in inferno/Plan9/386/lib: lib9.a
+Only in inferno/Plan9/386/lib: libbio.a
+Only in inferno/Plan9/386/lib: libcc.a
+Only in inferno/Plan9/386/lib: libdraw.a
+Only in inferno/Plan9/386/lib: libdynld.a
+Only in inferno/Plan9/386/lib: libfreetype.a
+Only in inferno/Plan9/386/lib: libinterp.a
+Only in inferno/Plan9/386/lib: libkeyring.a
+Only in inferno/Plan9/386/lib: libmach.a
+Only in inferno/Plan9/386/lib: libmath.a
+Only in inferno/Plan9/386/lib: libmemdraw.a
+Only in inferno/Plan9/386/lib: libmemlayer.a
+Only in inferno/Plan9/386/lib: libmp.a
+Only in inferno/Plan9/386/lib: libprefab.a
+Only in inferno/Plan9/386/lib: libregexp.a
+Only in inferno/Plan9/386/lib: libsec.a
+Only in inferno/Plan9/386/lib: libtk.a
+diff inferno/Plan9/mips/include/lib9.h inferno.new/Plan9/mips/include/lib9.h
+diff inferno/Plan9/power/include/lib9.h inferno.new/Plan9/power/include/lib9.h
+diff inferno/Plan9/sparc/include/lib9.h inferno.new/Plan9/sparc/include/lib9.h
+Only in inferno.new/Solaris/sparc/bin: iyacc
+diff inferno/Solaris/sparc/include/lib9.h inferno.new/Solaris/sparc/include/lib9.h
+Only in inferno/acme/dis: brk
+diff inferno/appl/acme/text.b inferno.new/appl/acme/text.b
+diff inferno/appl/cmd/auth/createsignerkey.b inferno.new/appl/cmd/auth/createsignerkey.b
+diff inferno/appl/cmd/limbo/stubs.b inferno.new/appl/cmd/limbo/stubs.b
+diff inferno/appl/cmd/ndb/dns.b inferno.new/appl/cmd/ndb/dns.b
+diff inferno/appl/cmd/ndb/registry.b inferno.new/appl/cmd/ndb/registry.b
+diff inferno/appl/cmd/puttar.b inferno.new/appl/cmd/puttar.b
+diff inferno/appl/cmd/sh/mkfile inferno.new/appl/cmd/sh/mkfile
+Only in inferno.new/appl/cmd/sh: mload.b
+Only in inferno.new/appl/cmd/sh: mpexpr.b
+diff inferno/appl/lib/bufio.b inferno.new/appl/lib/bufio.b
+Only in inferno/appl/lib: bufio.dis
+Only in inferno/appl/lib: bufio.sbl
+diff inferno/appl/lib/debug.b inferno.new/appl/lib/debug.b
+Only in inferno.new/appl/lib/ida: idatab.dis
+diff inferno/appl/lib/msgio.b inferno.new/appl/lib/msgio.b
+Only in inferno.new/appl/lib: names.b.nemo
+diff inferno/appl/lib/wmlib.b inferno.new/appl/lib/wmlib.b
+Only in inferno.new/appl: o
+diff inferno/appl/wm/wm.b inferno.new/appl/wm/wm.b
+Only in inferno/asm: y.tab.c
+Only in inferno/asm: y.tab.h
+Only in inferno: autorun.inf
+Only in inferno: devs
+Only in inferno.new/dis/acme: acme.dis.r272
+Only in inferno.new/dis/acme: acme.dis.r278
+Only in inferno.new/dis/acme: buff.dis.r272
+Only in inferno.new/dis/acme: buff.dis.r278
+Only in inferno.new/dis/acme: col.dis.r272
+Only in inferno.new/dis/acme: col.dis.r278
+Only in inferno.new/dis/acme: dat.dis.r272
+Only in inferno.new/dis/acme: dat.dis.r278
+Only in inferno.new/dis/acme: disk.dis.r272
+Only in inferno.new/dis/acme: disk.dis.r278
+Only in inferno.new/dis/acme: edit.dis.r272
+Only in inferno.new/dis/acme: edit.dis.r278
+Only in inferno.new/dis/acme: elog.dis.r272
+Only in inferno.new/dis/acme: elog.dis.r278
+Only in inferno.new/dis/acme: exec.dis.r272
+Only in inferno.new/dis/acme: exec.dis.r278
+Only in inferno.new/dis/acme: file.dis.r272
+Only in inferno.new/dis/acme: file.dis.r278
+Only in inferno.new/dis/acme: frame.dis.r272
+Only in inferno.new/dis/acme: frame.dis.r278
+Only in inferno.new/dis/acme: fsys.dis.r272
+Only in inferno.new/dis/acme: fsys.dis.r278
+Only in inferno.new/dis/acme: graph.dis.r272
+Only in inferno.new/dis/acme: graph.dis.r278
+Only in inferno.new/dis/acme: gui.dis.r272
+Only in inferno.new/dis/acme: gui.dis.r278
+Only in inferno.new/dis/acme: look.dis.r272
+Only in inferno.new/dis/acme: look.dis.r278
+Only in inferno.new/dis/acme: regx.dis.r272
+Only in inferno.new/dis/acme: regx.dis.r278
+Only in inferno.new/dis/acme: row.dis.r272
+Only in inferno.new/dis/acme: row.dis.r278
+Only in inferno.new/dis/acme: scrl.dis.r272
+Only in inferno.new/dis/acme: scrl.dis.r278
+Only in inferno.new/dis/acme: text.dis.r272
+Only in inferno.new/dis/acme: text.dis.r278
+Only in inferno.new/dis/acme: time.dis.r272
+Only in inferno.new/dis/acme: time.dis.r278
+Only in inferno.new/dis/acme: util.dis.r272
+Only in inferno.new/dis/acme: util.dis.r278
+Only in inferno.new/dis/acme: wind.dis.r272
+Only in inferno.new/dis/acme: wind.dis.r278
+Only in inferno.new/dis/acme: xfid.dis.r272
+Only in inferno.new/dis/acme: xfid.dis.r278
+Only in inferno.new/dis: acme.dis.r272
+Only in inferno.new/dis: acme.dis.r278
+Only in inferno/dis: brk
+Only in infe
+binary files inferno/dis/lib/bufio.dis inferno.new/dis/lib/bufio.dis differ
+Only in inferno/dis/lib: bufio.sbl
+Only in inferno/dis/o: Linux
+Only in inferno/dis/o: MacOSX
+Only in inferno/dis/o: Plan9
+Only in inferno/dis/o: blks.sbl
+Only in inferno/dis/o: camera.dis
+Only in inferno/dis/o: camera.sbl
+Only in inferno/dis/o: clock.dis
+Only in inferno/dis/o: clock.sbl
+Only in inferno/dis/o: dav
+Only in inferno/dis/o: dav.dis
+diff inferno/dis/o/error.sbl inferno.new/dis/o/error.sbl
+diff inferno/dis/o/io.sbl inferno.new/dis/o/io.sbl
+diff inferno/dis/o/live/gui.sbl inferno.new/dis/o/live/gui.sbl
+diff inferno/dis/o/live/layout.sbl inferno.new/dis/o/live/layout.sbl
+diff inferno/dis/o/live/livedat.sbl inferno.new/dis/o/live/livedat.sbl
+diff inferno/dis/o/live/menus.sbl inferno.new/dis/o/live/menus.sbl
+diff inferno/dis/o/live/owpdraw.sbl inferno.new/dis/o/live/owpdraw.sbl
+diff inferno/dis/o/live/owpgauge.sbl inferno.new/dis/o/live/owpgauge.sbl
+diff inferno/dis/o/live/owpimage.sbl inferno.new/dis/o/live/owpimage.sbl
+diff inferno/dis/o/live/owprowcol.sbl inferno.new/dis/o/live/owprowcol.sbl
+diff inferno/dis/o/live/owptext.sbl inferno.new/dis/o/live/owptext.sbl
+diff inferno/dis/o/live/tframe.sbl inferno.new/dis/o/live/tframe.sbl
+diff inferno/dis/o/live/tundo.sbl inferno.new/dis/o/live/tundo.sbl
+diff inferno/dis/o/live/wpanel.sbl inferno.new/dis/o/live/wpanel.sbl
+diff inferno/dis/o/live/wtree.sbl inferno.new/dis/o/live/wtree.sbl
+Only in inferno/dis/o: lmount.dis
+Only in inferno/dis/o: lmount.sbl
+diff inferno/dis/o/mero/merocon.sbl inferno.new/dis/o/mero/merocon.sbl
+diff inferno/dis/o/mero/merotree.sbl inferno.new/dis/o/mero/merotree.sbl
+diff inferno/dis/o/mero/mpanel.sbl inferno.new/dis/o/mero/mpanel.sbl
+diff inferno/dis/o/mero/ompdraw.sbl inferno.new/dis/o/mero/ompdraw.sbl
+diff inferno/dis/o/mero/ompgauge.sbl inferno.new/dis/o/mero/ompgauge.sbl
+diff inferno/dis/o/mero/ompimage.sbl inferno.new/dis/o/mero/ompimage.sbl
+diff inferno/dis/o/mero/omprowcol.sbl inferno.new/dis/o/mero/omprowcol.sbl
+diff inferno/dis/o/mero/omptext.sbl inferno.new/dis/o/mero/omptext.sbl
+Only in inferno/dis/o: mux.dis
+Only in inferno/dis/o: mux.sbl
+Only in inferno/dis/o: muxdat.dis
+Only in inferno/dis/o: muxdat.sbl
+Only in inferno/dis/o: netget.dis
+Only in inferno/dis/o: netget.sbl
+diff inferno/dis/o/netutil.sbl inferno.new/dis/o/netutil.sbl
+Only in inferno/dis/o: newterm
+Only in inferno/dis/o: nop.dis
+Only in inferno/dis/o: nop.sbl
+Only in inferno/dis/o: nope
+Only in inferno/dis/o: nope.dis
+Only in inferno/dis/o: nopi
+Only in inferno/dis/o/ofs: ofs.dis
+Only in inferno/dis/o/ofs: ofsnotify.dis
+Only in inferno/dis/o/ofs: ofsnotify.sbl
+Only in inferno/dis/o/ofs: ofsstyx.dis
+Only in inferno/dis/o/ofs: ofsstyx.sbl
+Only in inferno/dis/o/ofs: ofstree.dis
+Only in inferno/dis/o/ofs: ofstree.sbl
+Only in inferno/dis/o/ofs: stop.dis
+Only in inferno/dis/o/ofs: stop.sbl
+Only in inferno/dis/o: ofs.dis
+Only in inferno/dis/o: oh.dis
+Only in inferno/dis/o: oh.sbl
+Only in inferno/dis/o: ons
+diff inferno/dis/o/op.sbl inferno.new/dis/o/op.sbl
+diff inferno/dis/o/opmux.sbl inferno.new/dis/o/opmux.sbl
+Only in inferno/dis/o: opsh.dis
+Only in inferno/dis/o: os.sbl
+Only in inferno/dis/o: oxport.dis
+Only in inferno/dis/o: oxport.sbl
+Only in inferno/dis/o: panel.sbl
+Only in inferno/dis/o: pcns
+Only in inferno/dis/o: pcrc
+Only in inferno/dis/o: plumbing.dis
+Only in inferno/dis/o: plumbing.sbl
+diff inferno/dis/o/ports.sbl inferno.new/dis/o/ports.sbl
+Only in inferno/dis/o: query.dis
+Only in inferno/dis/o: query.sbl
+Only in inferno/dis/o: snarf.dis
+Only in inferno/dis/o: snarf.sbl
+Only in inferno/dis/o: spool.dis
+Only in inferno/dis/o: spool.sbl
+Only in inferno/dis/o: startns
+Only in inferno/dis/o: statsh
+Only in inferno/dis/o: tbl.sbl
+Only in inferno/dis/o: tblks.sbl
+Only in inferno/dis/o: termrc
+Only in inferno/dis/o: version
+Only in inferno/dis/o: view.dis
+Only in inferno/dis/o: view.sbl
+Only in inferno/dis/o: viewer.dis
+Only in inferno/dis/o: voice.dis
+Only in inferno/dis/o: voice.sbl
+Only in inferno/dis/o: w
+Only in inferno/dis/o: watcher.dis
+Only in inferno/dis/o: watcher.sbl
+Only in inferno/dis/o/x: load.dis
+Only in inferno/dis/o/x: load.sbl
+diff inferno/dis/o/x/regx.sbl inferno.new/dis/o/x/regx.sbl
+diff inferno/dis/o/x/sam.sbl inferno.new/dis/o/x/sam.sbl
+diff inferno/dis/o/x/samcmd.sbl inferno.new/dis/o/x/samcmd.sbl
+diff inferno/dis/o/x/samlog.sbl inferno.new/dis/o/x/samlog.sbl
+diff inferno/dis/o/x/xdat.sbl inferno.new/dis/o/x/xdat.sbl
+diff inferno/dis/o/x/xedit.sbl inferno.new/dis/o/x/xedit.sbl
+diff inferno/dis/o/x/xex.sbl inferno.new/dis/o/x/xex.sbl
+diff inferno/dis/o/xproc.sbl inferno.new/dis/o/xproc.sbl
+Only in inferno.new/dis/sh: mload.dis
+Only in inferno.new/dis/sh: mpexpr.dis
+Only in inferno.new: dist
+cp inferno/doc/limbo/limbo.ms inferno.new/doc/limbo/limbo.ms
+diff inferno/emu/MacOSX/win.c inferno.new/emu/MacOSX/win.c
+Only in inferno.new/emu: NetBSD
+diff inferno/emu/Nt/devfs.c inferno.new/emu/Nt/devfs.c
+diff inferno/emu/Nt/ie-os.c inferno.new/emu/Nt/ie-os.c
+diff inferno/emu/Nt/os.c inferno.new/emu/Nt/os.c
+diff inferno/emu/Nt/vlrt.c inferno.new/emu/Nt/vlrt.c
+diff inferno/emu/Nt/win.c inferno.new/emu/Nt/win.c
+Only in inferno.new/emu: OpenBSD
+diff inferno/emu/Plan9/cmd.c inferno.new/emu/Plan9/cmd.c
+diff inferno/emu/port/chan.c inferno.new/emu/port/chan.c
+diff inferno/emu/port/devdraw.c inferno.new/emu/port/devdraw.c
+diff inferno/emu/port/devpointer.c inferno.new/emu/port/devpointer.c
+diff inferno/emu/port/devsign.c inferno.new/emu/port/devsign.c
+diff inferno/emu/port/main.c inferno.new/emu/port/main.c
+diff inferno/emu/port/win-x11a.c inferno.new/emu/port/win-x11a.c
+Only in inferno/fonts: .DS_Store
+Only in inferno.new/fonts: minicharon
+diff inferno/include/kern.h inferno.new/include/kern.h
+diff inferno/include/version.h inferno.new/include/version.h
+Only in inferno/keydb: countersigned
+Only in inferno/keydb: keys
+Only in inferno/keydb: signed
+Only in inferno/keydb: signerkey
+Only in inferno/lib/ndb: _octopus
+diff inferno/lib/ndb/common inferno.new/lib/ndb/common
+diff inferno/lib/ndb/local inferno.new/lib/ndb/local
+Only in inferno/lib/ndb: octopus
+diff inferno/lib/proto/FreeBSD inferno.new/lib/proto/FreeBSD
+diff inferno/lib/proto/Hp inferno.new/lib/proto/Hp
+diff inferno/lib/proto/Irix inferno.new/lib/proto/Irix
+diff inferno/lib/proto/Linux inferno.new/lib/proto/Linux
+diff inferno/lib/proto/MacOSX inferno.new/lib/proto/MacOSX
+diff inferno/lib/proto/NetBSD inferno.new/lib/proto/NetBSD
+diff inferno/lib/proto/Nt inferno.new/lib/proto/Nt
+diff inferno/lib/proto/Solaris inferno.new/lib/proto/Solaris
+diff inferno/lib/proto/os inferno.new/lib/proto/os
+diff inferno/lib/proto/utils inferno.new/lib/proto/utils
+Only in inferno.new/lib9: getcallerpc-NetBSD-386.S
+Only in inferno.new/lib9: getcallerpc-OpenBSD-386.S
+diff inferno/lib9/lock-Nt-386.c inferno.new/lib9/lock-Nt-386.c
+diff inferno/libinterp/ipint.c inferno.new/libinterp/ipint.c
+diff inferno/libinterp/keyring.c inferno.new/libinterp/keyring.c
+diff inferno/libkern/mkfile inferno.new/libkern/mkfile
+Only in inferno.new/libkern: strtoull.c
+diff inferno/libkeyring/dsaalg.c inferno.new/libkeyring/dsaalg.c
+diff inferno/libkeyring/egalg.c inferno.new/libkeyring/egalg.c
+diff inferno/libkeyring/keys.h inferno.new/libkeyring/keys.h
+diff inferno/libkeyring/rsaalg.c inferno.new/libkeyring/rsaalg.c
+Only in inferno.new/libmath: FPcontrol-NetBSD.c
+Only in inferno.new/libmath: FPcontrol-OpenBSD.c
+diff inferno/libmemdraw/draw.c inferno.new/libmemdraw/draw.c
+Only in inferno.new/libmemdraw: mkfile-NetBSD
+Only in inferno.new/libmemdraw: mkfile-OpenBSD
+Only in inferno.new/libmemlayer: mkfile-OpenBSD
+diff inferno/libmp/port/mpdiv.c inferno.new/libmp/port/mpdiv.c
+diff inferno/libmp/port/mpfactorial.c inferno.new/libmp/port/mpfactorial.c
+diff inferno/libmp/port/mpinvert.c inferno.new/libmp/port/mpinvert.c
+diff inferno/libmp/port/mptoui.c inferno.new/libmp/port/mptoui.c
+diff inferno/limbo/stubs.c inferno.new/limbo/stubs.c
+Only in inferno.new/locale: Moscow
+diff inferno/man/1/sh-expr inferno.new/man/1/sh-expr
+Only in inferno.new/man/1: sh-mload
+diff inferno/man/2/daytime inferno.new/man/2/daytime
+diff inferno/man/4/registry inferno.new/man/4/registry
+diff inferno/mkconfig inferno.new/mkconfig
+diff inferno/mkfile inferno.new/mkfile
+diff inferno/mkfiles/mkfile-FreeBSD-386 inferno.new/mkfiles/mkfile-FreeBSD-386
+diff inferno/mkfiles/mkfile-Hp-s800 inferno.new/mkfiles/mkfile-Hp-s800
+diff inferno/mkfiles/mkfile-Irix-mips inferno.new/mkfiles/mkfile-Irix-mips
+diff inferno/mkfiles/mkfile-Linux-386 inferno.new/mkfiles/mkfile-Linux-386
+diff inferno/mkfiles/mkfile-Linux-arm inferno.new/mkfiles/mkfile-Linux-arm
+diff inferno/mkfiles/mkfile-MacOSX-386 inferno.new/mkfiles/mkfile-MacOSX-386
+diff inferno/mkfiles/mkfile-MacOSX-power inferno.new/mkfiles/mkfile-MacOSX-power
+Only in inferno.new/mkfiles: mkfile-NetBSD-386
+diff inferno/mkfiles/mkfile-Nt-386 inferno.new/mkfiles/mkfile-Nt-386
+Only in inferno.new/mkfiles: mkfile-OpenBSD-386
+diff inferno/mkfiles/mkfile-Solaris-386 inferno.new/mkfiles/mkfile-Solaris-386
+diff inferno/mkfiles/mkfile-Solaris-sparc inferno.new/mkfiles/mkfile-Solaris-sparc
+diff inferno/mkfiles/mkfile-Unixware-386 inferno.new/mkfiles/mkfile-Unixware-386
+diff inferno/mkfiles/mkfile-os-386 inferno.new/mkfiles/mkfile-os-386
+diff inferno/mkfiles/mkfile-os-arm inferno.new/mkfiles/mkfile-os-arm
+diff inferno/mkfiles/mkfile-os-power inferno.new/mkfiles/mkfile-os-power
+diff inferno/mkfiles/mkfile-os-sparc inferno.new/mkfiles/mkfile-os-sparc
+diff inferno/mkfiles/mkfile-os-spim inferno.new/mkfiles/mkfile-os-spim
+diff inferno/mkfiles/mkfile-os-thumb inferno.new/mkfiles/mkfile-os-thumb
+Only in inferno.new/mkfiles: mkhost-NetBSD
+Only in inferno.new/mkfiles: mkhost-OpenBSD
+Only in inferno/mnt: 9win
+Only in inferno/mnt: acme
+Only in inferno/mnt: arch
+Only in inferno/mnt: audio
+Only in inferno/mnt: cmd
+Only in inferno/mnt: diary
+Only in inferno/mnt: empty
+Only in inferno/mnt: factotum
+Only in inferno/mnt: fs
+Only in inferno/mnt: gossip
+Only in inferno/mnt: icontact
+Only in inferno/mnt: ilog
+Only in inferno/mnt: incall
+Only in inferno/mnt: isubs
+Only in inferno/mnt: itrack
+Only in inferno/mnt: keys
+Only in inferno/mnt: keysrv
+Only in inferno/mnt: mail
+Only in inferno/mnt: ports
+Only in inferno/mnt: print
+Only in inferno/mnt: quiz
+Only in inferno/mnt: registry
+Only in inferno/mnt: rstyxreg
+Only in inferno/mnt: schedule
+Only in inferno/mnt: snarf
+Only in inferno/mnt: terms
+Only in inferno/mnt: ui
+Only in inferno/mnt: view
+Only in inferno/mnt: vmail
+Only in inferno/mnt: voice
+Only in inferno/mnt: what
+Only in inferno/mnt: who
+Only in inferno/mnt: wm
+Only in inferno/mnt: wrap
+Only in inferno/mnt: wsys
+Only in inferno/n: audio
+Only in inferno/n: cd
+Only in inferno/n: client
+Only in inferno/n: cmd
+Only in inferno/n: disk
+Only in inferno/n: dist
+Only in inferno/n: dump
+Only in inferno/n: empty
+Only in inferno/n: ftp
+Only in inferno/n: kfs
+Only in inferno/n: local
+Only in inferno/n: log
+Only in inferno/n: main
+Only in inferno/n: music
+Only in inferno/n: other
+Only in inferno/n: pc
+Only in inferno/n: planb
+Only in inferno/n: planbdump
+Only in inferno/n: ports
+Only in inferno/n: rdbg
+Only in inferno/n: registry
+Only in inferno/n: remote
+Only in inferno/n: ssl
+Only in inferno/n: term
+Only in inferno/n: ui
+Only in inferno/n: whale
+Only in inferno/n: what
+Only in inferno: octopus.tgz
+Only in inferno.new/os/boot/pc: ahci.h
+Only in inferno.new/os/boot/pc: aoe.h
+diff inferno/os/boot/pc/bcom.c inferno.new/os/boot/pc/bcom.c
+diff inferno/os/boot/pc/bootp.c inferno.new/os/boot/pc/bootp.c
+Only in inferno.new/os/boot/pc: cis.c
+diff inferno/os/boot/pc/clock.c inferno.new/os/boot/pc/clock.c
+diff inferno/os/boot/pc/dat.h inferno.new/os/boot/pc/dat.h
+Only in inferno.new/os/boot/pc: devbios.c
+Only in inferno.new/os/boot/pc: devbios.h
+diff inferno/os/boot/pc/devi82365.c inferno.new/os/boot/pc/devi82365.c
+diff inferno/os/boot/pc/devpccard.c inferno.new/os/boot/pc/devpccard.c
+diff inferno/os/boot/pc/devsd.c inferno.new/os/boot/pc/devsd.c
+diff inferno/os/boot/pc/ether.c inferno.new/os/boot/pc/ether.c
+diff inferno/os/boot/pc/ether589.c inferno.new/os/boot/pc/ether589.c
+diff inferno/os/boot/pc/ether8169.c inferno.new/os/boot/pc/ether8169.c
+diff inferno/os/boot/pc/ether82557.c inferno.new/os/boot/pc/ether82557.c
+Only in inferno.new/os/boot/pc: ether82563.c
+diff inferno/os/boot/pc/ether83815.c inferno.new/os/boot/pc/ether83815.c
+Only in inferno.new/os/boot/pc: etherdp83820.c
+diff inferno/os/boot/pc/etherelnk3.c inferno.new/os/boot/pc/etherelnk3.c
+Only in inferno.new/os/boot/pc: etherelnk3x.c
+Only in inferno.new/os/boot/pc: etherga620.c
+Only in inferno.new/os/boot/pc: etherga620fw.h
+diff inferno/os/boot/pc/etherif.h inferno.new/os/boot/pc/etherif.h
+diff inferno/os/boot/pc/etherigbe.c inferno.new/os/boot/pc/etherigbe.c
+diff inferno/os/boot/pc/etherrhine.c inferno.new/os/boot/pc/etherrhine.c
+diff inferno/os/boot/pc/fns.h inferno.new/os/boot/pc/fns.h
+diff inferno/os/boot/pc/io.h inferno.new/os/boot/pc/io.h
+diff inferno/os/boot/pc/l.s inferno.new/os/boot/pc/l.s
+diff inferno/os/boot/pc/lib.h inferno.new/os/boot/pc/lib.h
+diff inferno/os/boot/pc/load.c inferno.new/os/boot/pc/load.c
+diff inferno/os/boot/pc/mem.h inferno.new/os/boot/pc/mem.h
+diff inferno/os/boot/pc/mkfile inferno.new/os/boot/pc/mkfile
+diff inferno/os/boot/pc/noether.c inferno.new/os/boot/pc/noether.c
+diff inferno/os/boot/pc/part.c inferno.new/os/boot/pc/part.c
+diff inferno/os/boot/pc/pbs.s inferno.new/os/boot/pc/pbs.s
+diff inferno/os/boot/pc/pbsdisklba.s inferno.new/os/boot/pc/pbsdisklba.s
+diff inferno/os/boot/pc/pbslba.s inferno.new/os/boot/pc/pbslba.s
+diff inferno/os/boot/pc/pci.c inferno.new/os/boot/pc/pci.c
+diff inferno/os/boot/pc/sd.h inferno.new/os/boot/pc/sd.h
+diff inferno/os/boot/pc/sd53c8xx.c inferno.new/os/boot/pc/sd53c8xx.c
+Only in inferno.new/os/boot/pc: sdaoe.c
+diff inferno/os/boot/pc/sdata.c inferno.new/os/boot/pc/sdata.c
+Only in inferno.new/os/boot/pc: sdbios.c
+Only in inferno.new/os/boot/pc: sdiahci.c
+diff inferno/os/boot/pc/sdmylex.c inferno.new/os/boot/pc/sdmylex.c
+diff inferno/os/boot/pc/sdscsi.c inferno.new/os/boot/pc/sdscsi.c
+diff inferno/os/boot/pc/trap.c inferno.new/os/boot/pc/trap.c
+diff inferno/os/boot/pc/x16.h inferno.new/os/boot/pc/x16.h
+diff inferno/os/port/devcons.c inferno.new/os/port/devcons.c
+Only in inferno: pc
+Only in inferno: start
+Only in inferno: term
+Only in inferno: terms
+Only in inferno.new/tools/styxtest: mkfile-OpenBSD
+Only in inferno/usr: elf
+Only in inferno/usr: esoriano
+Only in inferno/usr: inferno
+Only in inferno/usr: lalis
+Only in inferno/usr: nemo
+Only in inferno/usr: octopus
+Only in inferno/usr: paurea
+Only in inferno/usr: prof
+Only in inferno/utils/0a: y.debug
+Only in inferno/utils/0a: y.tab.c
+Only in inferno/utils/0a: y.tab.h
+Only in inferno/utils/1a: y.debug
+Only in inferno/utils/1a: y.tab.c
+Only in inferno/utils/1a: y.tab.h
+Only in inferno/utils/2a: y.debug
+Only in inferno/utils/2a: y.tab.c
+Only in inferno/utils/2a: y.tab.h
+Only in inferno/utils/5a: y.debug
+Only in inferno/utils/5a: y.tab.c
+Only in inferno/utils/5a: y.tab.h
+Only in inferno/utils/8a: y.debug
+Only in inferno/utils/8a: y.tab.c
+Only in inferno/utils/8a: y.tab.h
+Only in inferno/utils/acid: y.tab.c
+Only in inferno/utils/acid: y.tab.h
+Only in inferno/utils/c2l: y.tab.c
+Only in inferno/utils/c2l: y.tab.h
+Only in inferno/utils/cc: y.tab.c
+Only in inferno/utils/cc: y.tab.h
+Only in inferno.new/utils: iyacc
+Only in inferno/utils/ka: y.debug
+Only in inferno/utils/ka: y.tab.c
+Only in inferno/utils/ka: y.tab.h
+diff inferno/utils/libmach/sym.c inferno.new/utils/libmach/sym.c
+Only in inferno/utils/mk: mk
+diff inferno/utils/mkfile inferno.new/utils/mkfile
+Only in inferno/utils/qa: y.debug
+Only in inferno/utils/qa: y.tab.c
+Only in inferno/utils/qa: y.tab.h
+diff inferno/utils/rcsh/simple.c inferno.new/utils/rcsh/simple.c
+diff inferno/utils/sed/sed.c inferno.new/utils/sed/sed.c
+Only in inferno/utils/va: y.debug
+Only in inferno/utils/va: y.tab.c
+Only in inferno/utils/va: y.tab.h
+; cp /dev/text 
+; pwd
+/usr
+; cp /dev/text inferno.new/CHANGES.LOCAL
+chmo

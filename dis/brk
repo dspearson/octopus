@@ -1,0 +1,8 @@
+#!/dis/sh.dis
+
+ps | grep broken
+pid=`{ps | grep broken | sed 's/ +([0-9]+) .*/\1/'}
+stack -v $pid
+echo 'echo killgrp >/prog/'$pid'/ctl'
+
+
